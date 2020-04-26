@@ -4,7 +4,7 @@ This is a set of drums that you can play online using a mouse or designated keyb
 
 ## Getting Started
 
-This is an application that allows u to play drum beats on your device by clicking on drum images provided on your browser or stricking particular keys asigned to each image
+This is an application that allows you to play drum beats on your device by clicking on drum images provided on your browser or stricking particular keys asigned to each image
 
  
 
